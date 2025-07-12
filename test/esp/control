@@ -1,0 +1,12 @@
+Homepage: FF CHEAT
+Depiction: FF CHEAT
+Author: FF CHEAT <example@gmail.com>
+Maintainer: FF CHEAT <example@gmail.com>
+Name: Menu Hack FF CHEAT
+Package: com.ff.cheat.imgui
+Depends: firmware (>= 8.0)
+Section: Utilities
+Architecture: iphoneos-arm
+Description: FF CHEAT
+dev: FF CHEAT
+Tag: FF CHEAT
